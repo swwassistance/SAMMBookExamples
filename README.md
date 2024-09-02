@@ -75,4 +75,4 @@ After this, open a command window and install the required packages by entering 
 - Table 15.6: Stochastic simulation of the ozonation reactor
 
 ## Contact
-In case of questions or feedback, feel free to contact [sww@eifu.baug.ethz.ch](sww@eifu.baug.ethz.ch).
+In case of questions or feedback, feel free to contact [sww@ifu.baug.ethz.ch](sww@eifu.baug.ethz.ch).
