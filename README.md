@@ -1,4 +1,4 @@
-# SAMMBookExamples
+# SAMM Book Examples
 The [Chairs of Urban Water Management](https://sww.ifu.ethz.ch/) translated the examples in the [course book](https://link.springer.com/book/10.1007/978-3-540-77278-1) of the lecture "Systems Analysis and Mathematical Modeling in Urban Water Management (SAMM)" from berkeley Madonna to Python.
 
 ## Table of Contents
